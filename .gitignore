@@ -1,0 +1,8 @@
+/Manifest*.toml
+
+# editor configuration files
+*.editorconfig
+
+*/split_number_data
+
+*/mathematica/
