@@ -18,7 +18,7 @@ JSON = "1.6.1"
 Oscar = "1.7.3"
 PicoSAT = "0.4.1"
 ProgressMeter = "1.11.0"
-TensorCategories = "0.6.0"
+TensorCategories = "0.6.0, 0.7"
 UUIDs = "1.11.0"
 
 [extras]
